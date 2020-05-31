@@ -1,0 +1,17 @@
+{
+  "name": "rentomojo",
+  "version": "1.0.0",
+  "description": "company project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "start": "node server1.js"
+  },
+  "author": "manu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16"
+  }
+}
